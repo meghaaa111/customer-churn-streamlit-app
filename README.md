@@ -1,4 +1,3 @@
-# customer-churn-streamlit-app
 # Customer Churn Prediction – Streamlit App
 
 This project predicts whether a telecom customer is likely to churn using a Machine Learning model. 
