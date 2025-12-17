@@ -26,7 +26,7 @@ Customer churn occurs when users stop using a service. Predicting churn helps bu
 👉 [Click here to try the app]https://customer-churn-app-app-wdwstbleq9afmsgxgrutgf.streamlit.app/
 
 ## 📁 Repository
-👉 [GitHub Repo]()
+👉 [GitHub Repo]https://github.com/meghaaa111/customer-churn-streamlit-app/tree/main
 
 ## 📌 How to Run Locally
 ```bash
